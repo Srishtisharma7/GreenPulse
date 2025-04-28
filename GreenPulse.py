@@ -13,7 +13,7 @@ from fpdf import FPDF
 
 # Using Gemini API Key
 # --------------------
-GEMINI_API_KEY = "AIzaSyB9VndCZs92FoT6gM5cJeNPSmFKcPMIkz0"  
+GEMINI_API_KEY = "APi key"  
 genai.configure(api_key=GEMINI_API_KEY)
 
 
